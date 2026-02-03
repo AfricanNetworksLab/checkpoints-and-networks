@@ -3,9 +3,9 @@ __Maintainer__ = [African Networks Lab](https://anl.geog.ufl.edu/)
 __Corresponding author__ = Dr. Olivier Walther, owalther@ufl.edu, University of Florida
 
 ## Description
-These two R files support the analysis of road checkpoints in West Africa. We use K-functions to investigate whether events of political violence tend to cluster near checkpoints, or whether they are dispersed from them. We also examine how checkpoints are related to each other via the transportation network, and which checkpoints are more central than others.
+This R file supports the analysis of road checkpoints in West Africa. We use K-functions to investigate whether events of political violence tend to cluster near checkpoints, or whether they are dispersed from them based on Russell, D. G., & Radil, S. M. (2022). Landscapes of control: The geography of counterinsurgency in the Sinai, Egypt. The Arab World Geographer, 25(2-3), 98-118.
 
-In terms of data processing, these files provide an example of how to integrate R's sf library with older functionality from sp and spatstat along with how to create a spatial network from road shapefiles.
+In terms of data processing, this script provides an example of how to integrate R's sf library with older functionality from sp and spatstat.
 
 ## Citation
 Please cite as:
