@@ -1,4 +1,4 @@
-# Bivariate Ripley's K-function to analyze violence associated with checkpoints
+# Bivariate Ripley's K-function to analyze violence associated with checkpoints in Africa
 __Maintainer__ = [African Networks Lab](https://anl.geog.ufl.edu/)
 __Corresponding author__ = Dr. Olivier Walther, owalther@ufl.edu, University of Florida
 
