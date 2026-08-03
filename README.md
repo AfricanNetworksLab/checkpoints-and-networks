@@ -7,6 +7,8 @@ This R file supports the analysis of road checkpoints in West Africa vis a vis t
 
 In terms of data processing, this script provides an example of how to create a spatial network from polylines and calculate the centrality scores of each road intersection.
 
+For a recent application, see Walther, O. (2026). Checkpoints, transport networks, and armed conflicts: towards a relational approach. Danish Institute for International Studies Working Paper 12.
+
 ## Citation
 Please cite as:
 Lacey Harris-Coble & Olivier J. Walther (2026) Checkpoints and networks R code. https://github.com/AfricanNetworksLab/checkpoints-and-networks
